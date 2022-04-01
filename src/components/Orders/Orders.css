@@ -1,0 +1,4 @@
+.new-shop-container{
+    display: grid;
+    grid-template-columns: 4fr 0fr;
+}
